@@ -1,0 +1,70 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  border-top: 5px solid #4c4066;
+  margin: 0;
+  padding: 10px 150px;
+  font-size: 12px;
+  color: #666666;
+}
+header{
+  padding: 10px;
+  height: 40px;
+  font-size: large;
+  text-align: center;
+}
+nav {
+  
+  text-align: center;
+  font-size: large;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gray;
+}
+nav a{
+  text-decoration: none;
+}
+nav a:hover{
+  color:red;
+}
+#Women-have-always-coded {
+  width:900px;
+  font-size: medium;
+}
+figcaption {
+  text-align: center;
+  font-style: italic;
+  line-height: 1.5em;
+}
+#Women-Programmers{
+  width:70%;
+  padding:10px;
+  margin:0;
+  display:inline-block;
+  
+}
+#anita, .fig img {
+  width:30%;
+}
+#ada-lovelace,#grace,#anita{
+  width:70%;
+  padding:10px;
+  display:inline-block;
+  text-align: center;
+}
+aside {
+ 
+  float:right ;
+  height: 130px;
+  
+}
+ li {
+  list-style: none;
+}
+aside .programmers {
+  padding:5px 15px 15px;
+  background-color: white;
+  margin-bottom: 20px;
+  border: 1px solid #e5e5;
+  
+ 
+}
